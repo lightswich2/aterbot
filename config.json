@@ -1,6 +1,6 @@
 {
 	"client": {
-		"host": "emerald.magmanode.com:28974",
+		"host": "emerald.magmanode.com",
 		"port": "28974",
 		"username": "UpTimeBot"
 	},
