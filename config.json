@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "emerald.magmanode.com",
-		"port": "28974",
+		"host": "brier.minefort.com",
+		"port": "25565",
 		"username": "UpTimeBot"
 	},
 	
